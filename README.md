@@ -6,6 +6,9 @@ A Dynamic Pricing Dashboard that predicts optimal ride prices in real-time to ma
 
 Dynamic pricing is a strategy where prices are adjusted in real-time based on demand, supply, and other external factors. This project simulates a real-world use case for ride-hailing services like Uber and Lyft, predicting the optimal price to maximize revenue for each trip.
 
+My model : https://drive.google.com/file/d/1aDE4Ttj7WndyiRAiMVskqNLZWNp22R6d/view?usp=sharing
+Dataset : https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma?resource=download
+
 Key Features:
 
 Predicts expected demand based on trip features.
