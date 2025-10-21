@@ -1,4 +1,4 @@
-🚖 Dynamic Pricing System – Uber/Lyft
+Dynamic Pricing System – Uber/Lyft
 
 A Dynamic Pricing Dashboard that predicts optimal ride prices in real-time to maximize revenue using a Random Forest ML model. Built with Python, scikit-learn, and Streamlit for a fully interactive user experience.
 
